@@ -4,7 +4,7 @@ I am Edvin, I love to learn New Skills & Languages.I also enjoy playing Guitar.
 
 Skills: Java / MySql / C / R / HTML / CSS / C++ / Python 
 
-- 🔭 I’m currently working on Imporving My Coding Skills. 
+- 🔭 I’m currently working on Improving My Coding Skills. 
 - 🌱 I’m currently learning Java and Springboot.
 - ⚡ Fun fact: I love to learn new things, and I embrace my inner nerd 
 
