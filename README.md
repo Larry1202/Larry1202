@@ -1,5 +1,5 @@
 ### Hi there 👋, Edvin
-#### Coder & Guitarist
+#### Data Engineer & a Guitarist
 I am Edvin, I love to learn New Skills & Languages.I also enjoy playing Guitar.  
 
 Skills: Java / MySql / C / R / HTML / CSS / C++ / Python 
