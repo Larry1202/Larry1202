@@ -71,8 +71,6 @@ When I'm not working with data systems, you'll find me:
 
 ![Edvin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Larry1202&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larry1202\&layout=compact\&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Larry1202&layout=compact&theme=tokyonight)
 
 ⭐ *Always interested in building systems that turn raw data into meaningful insights.*
