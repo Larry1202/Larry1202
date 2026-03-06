@@ -2,11 +2,16 @@
 
 💻 **Data Engineer | SQL Developer | Database Architect**
 
-I specialize in building **scalable data pipelines, ETL workflows, and high-performance database systems**.
-My work focuses on transforming complex enterprise data into **reliable, optimized, and production-ready data platforms**.
+🚀 About Me
 
-Currently working with **IBM DataStage, Spark, DB2, and distributed data systems**, solving real-world data engineering challenges.
+💻 Data Engineer specializing in ETL pipelines, distributed data systems, and database architecture.
+I design high-performance data pipelines, optimize large-scale SQL workloads, and build scalable data platforms.
+Currently working with:
 
+• IBM DataStage for enterprise ETL
+• Spark & Kafka for big data pipelines
+• DB2 / SQL Server / SingleStore for database systems
+• Java & Python for backend data tooling
 ---
 
 ## 🚀 Tech Stack
