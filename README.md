@@ -69,6 +69,8 @@ When I'm not working with data systems, you'll find me:
 
 ## 📊 GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Larry1202&theme=tokyonight)
+
 ![Edvin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Larry1202&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Larry1202&layout=compact&theme=tokyonight)
