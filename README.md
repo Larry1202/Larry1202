@@ -78,4 +78,6 @@ When I'm not working with data systems, you'll find me:
 ⭐ *Always interested in building systems that turn raw data into meaningful insights.*
 
 
-![](https://komarev.com/ghpvc/?username=Larry1202)
+![](https://komarev.com/ghpvc/?username=Larry1202) 
+
+![Snake animation](https://github.com/YOUR_USERNAME/Larry1202/blob/output/github-contribution-grid-snake.svg)
